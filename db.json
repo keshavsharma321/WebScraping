@@ -1,0 +1,62 @@
+{
+  "Post": [
+    {
+      "id": 1,
+      "postby": "Keshav",
+      "Date": "10-12-2022",
+      "title": "Memories"
+    },
+    {
+      "id": 2,
+      "postby": "Nikhil",
+      "Date": "15-12-2022",
+      "title": "Wedding"
+    },
+    {
+      "id": 3,
+      "postby": "Krishna",
+      "Date": "1-11-2022",
+      "title": "Birthday"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "firstname": "Keshav",
+      "lastname": "Sharma",
+      "location": "Saharanpur"
+    },
+    {
+      "id": 2,
+      "firstname": "Nikhil",
+      "lastname": "Singh",
+      "location": "Prayagraj"
+    },
+    {
+      "id": 3,
+      "firstname": "Krishna",
+      "lastname": "yadav",
+      "location": "Mathura"
+    }
+  ],
+  "Comments": [
+    {
+      "id": 1,
+      "commentby": "Shashwat",
+      "commentDate": "20-12-2022",
+      "commentText": "Great post!"
+    },
+    {
+      "id": 2,
+      "commentby": "Om",
+      "commentDate": "25-12-2022",
+      "commentText": "Congratulations!"
+    },
+    {
+      "id": 3,
+      "commentby": "Prakhar",
+      "commentDate": "5-11-2022",
+      "commentText": "Happy Birthday!"
+    }
+  ]
+}
